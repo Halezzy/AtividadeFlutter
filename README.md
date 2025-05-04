@@ -96,7 +96,7 @@ flutapp/
 ## Créditos ##
 
 Projeto desenvolvido para fins educacionais por **Hugo Alessi** 
-Curso: Especialização em Desenvolvimento Web no IFSP campus Itapetininga.
-Disciplina: Desenvolvimento Mobile
-Profa: **Acacia Terra**
+**Curso:** Especialização em Desenvolvimento Web no IFSP campus Itapetininga.
+**Disciplina:** Desenvolvimento Mobile.
+**Profa:** Acacia Terra
 
