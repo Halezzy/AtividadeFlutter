@@ -93,8 +93,10 @@ flutapp/
 └── README.md             # Este arquivo
 ```
 
-## Créditos
+## Créditos ##
 
-Este projeto foi desenvolvido por **Hugo Alessi** - RA: IT3037398.
+Projeto desenvolvido para fins educacionais por **Hugo Alessi** 
+Curso: Especialização em Desenvolvimento Web no IFSP campus Itapetininga.
+Disciplina: Desenvolvimento Mobile
+Profa: **Acacia Terra**
 
-O projeto foi criado para fins educacionais, com o objetivo de aprender e praticar o desenvolvimento de aplicativos Flutter e o uso do controle de versão com Git e GitHub.
